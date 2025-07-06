@@ -5,6 +5,9 @@ import android.view.View
 import android.view.inputmethod.InputMethodManager
 import android.widget.Toast
 import androidx.fragment.app.Fragment
+import com.okemwag.notepad.data.local.Note
+import com.okemwag.notepad.data.local.SyncStatus
+import com.okemwag.notepad.data.remote.NoteDto
 import java.text.SimpleDateFormat
 import java.util.*
 
